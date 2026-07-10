@@ -20,8 +20,6 @@ A simple survey form built using HTML and CSS to practice form creation and basi
 
 https://manjesh2022.github.io/Survey/
 
-> *(Enable GitHub Pages if you haven't already. Remove this section if you don't plan to host it.)*
-
 ## 📷 Preview
 
 A basic survey form that collects user details and feedback using standard HTML form elements.
